@@ -1,6 +1,6 @@
 # PyhonQGIS
-, it comes with its own Python interpreter. You can use this Python interpreter or link QGIS to an existing Python installation.
-
+It comes with its own Python interpreter. You can use this Python interpreter or link QGIS to an existing Python installation.
+This example assumes you have conducted a project using QGIS, Python, and environmental modeling, and it includes sections on Introduction, Installation, Usage, Results, and Examples:
 
 
 # Environmental Modeling via QGIS with Python
