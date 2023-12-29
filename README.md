@@ -34,8 +34,27 @@ pip install -r requirements.txt
 from qgis.core import QgsApplication, QgsVectorLayer
 ```
 
-# Example: Load a vector layer
+### Example: Load a vector layer
 ```python
 layer = QgsVectorLayer('/path/to/your/data.shp', 'Your Layer Name', 'ogr')
 ```
 Explore the various scripts and modules to perform specific environmental modeling tasks.
+
+## Results
+
+# Example 1: Spatial Analysis of Air Quality Data
+In this example, we conducted a spatial analysis of air quality data to identify pollution hotspots. The process involved loading air quality data, interpolating values using kriging, and visualizing the results on a map.
+
+
+# Example 2: Watershed Modeling
+We used Python scripts to delineate watersheds based on digital elevation models (DEM) and calculated various hydrological parameters. The results were visualized in QGIS, providing insights into watershed characteristics.
+
+
+Examples
+Check the `examples/` directory for detailed code examples and Jupyter notebooks showcasing different environmental modeling scenarios.
+
+## Contributing
+Feel free to contribute by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
