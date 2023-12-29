@@ -24,3 +24,18 @@ This repository contains scripts and resources for conducting environmental mode
 ```python
 pip install -r requirements.txt
 ````
+## Usage
+
+1. Open QGIS and load your environmental data.
+
+2. Run the Python scripts in the scripts/ directory using the QGIS Python Console or a dedicated Python environment.
+
+```python
+from qgis.core import QgsApplication, QgsVectorLayer
+```
+
+# Example: Load a vector layer
+```python
+layer = QgsVectorLayer('/path/to/your/data.shp', 'Your Layer Name', 'ogr')
+```
+Explore the various scripts and modules to perform specific environmental modeling tasks.
