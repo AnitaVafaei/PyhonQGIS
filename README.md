@@ -17,3 +17,10 @@ This repository contains scripts and resources for conducting environmental mode
 
    ```bash
    git clone https://github.com/your-username/environmental-modeling-qgis.git
+
+
+- Install the required Python dependencies:
+
+```python
+pip install -r requirements.txt
+````
