@@ -1,3 +1,8 @@
+
+[![](https://badgen.net/badge/Python/QGIS/blue?icon=instgrame)]()
+[![](https://badgen.net/badge/Rhinella/Granulosa/blue?icon=instgrame)](https://github.com/AnitaVafaei/BiodiversityR/blob/main/Codes/rhinella%20granulosa.R)
+[![](https://badgen.net/badge/IUCN/Red/red?icon=instgrame)]()
+[![](https://badgen.net/badge/land-use/data/black?icon=instgrame)]()
 # PythonQGIS
 It comes with its own Python interpreter. You can use this Python interpreter or link QGIS to an existing Python installation.
 This example assumes you have conducted a project using QGIS, Python, and environmental modeling, and it includes sections on Introduction, Installation, Usage, Results, and Examples:
